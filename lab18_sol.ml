@@ -10,7 +10,7 @@ intuition about dynamic versus lexical semantics and how stores work
 to allow mutability. The payoff exercises here are Exercises 9, 11,
 and 12.
 
-Finally, you'll program a simple implementation of environments --
+Finally, you will program a simple implementation of environments --
 allowing lookup in and extending of environments -- which may be
 helpful with your work on the final project.  *)
 
